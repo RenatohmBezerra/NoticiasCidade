@@ -13,7 +13,6 @@ body {
 #container {
     width: 750px;
     margin: 0 auto;
-    border: 1px solid black;
 }
 
 /* Cabeçalho - Área da logo */
@@ -22,7 +21,6 @@ body {
     height: 150px;
     padding-top: 25px;
     background: url(../imagens/detalhe-topo.png) no-repeat right top;
-    border: 1px solid black;
 
 }
 
@@ -95,7 +93,6 @@ body.fotos #navegacao a#fotos
     width: 270px;
     float: left;
     margin: 0 0 20px 195px;
-    background: blue;
 }
 
 #duas-colunas #primario {
@@ -111,7 +108,6 @@ body.fotos #navegacao a#fotos
     width: 270px;
     float: left;
     margin: 0 0 20px 15px;
-    background: green;
 }
 
 #lateral {
