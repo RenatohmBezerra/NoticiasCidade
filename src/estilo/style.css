@@ -172,6 +172,14 @@ input.submit {
     border: 2px solid #870529;
 }
 
+a:link, a:visited {
+    color: #b10333;
+    padding: 2px;
+}
+
+a:hover {
+    color: #e50040;
+}
 /* Formatação das imagens */
 img {
     border: 2px solid #dfdfdf;
@@ -220,6 +228,7 @@ h3 {
 
 #noticias li a p{
     font-size: 0.7em;
+    color: #000;
 }
 
 #noticias li:hover{
